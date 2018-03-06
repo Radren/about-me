@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## This is about-me page
 
-You can use the [editor on GitHub](https://github.com/Radren/about-me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sorry guys I don't have open source projects currently, always worked for money :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nevertheless, you can try some of my pet projects:
 
-### Markdown
+1. [Limobtarget](http://limbotarget.ru) - a system which parses users from Russian most popular social web [VKontakte](http://vk.com) in many different ways. It is used by smm managers to get a target audience from vk. Using these sets they can place more efficient and cheap advertisments in vk.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. [@GotWordBot](https://telegram.me/GotWordBot) - a [Telegram](https://telegram.org/) bot which helps your to learn new words from foreign language more effective. It is based on a simple but important idea: learning new words with their context faster than learning them without context just from your paper or electronic vocabulary.
 
-```markdown
-Syntax highlighted code block
+You can feed him words which you want to remember and it can give your examples of phrases with your words. It gets them from recents tweets, therefore it supports words from almost any language you have wanted to know.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Radren/about-me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact me
+Feel free to write me via email: radren@mail.ru or find me in [VK](https://vk.com/filchenkov_a_s)
